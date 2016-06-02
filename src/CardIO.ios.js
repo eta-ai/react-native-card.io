@@ -1,5 +1,7 @@
 import React, {
-  Component,
+  Component
+} from 'react'
+import {
   View,
   requireNativeComponent,
   NativeAppEventEmitter,
